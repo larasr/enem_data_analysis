@@ -29,8 +29,10 @@ Para tal, usa-se dois conjuntos de dados, que constam para todos os anos no mesm
 ## Estrutura do Repositório
 - **data/**: Dados brutos advindos do site oficial do gov. Contém subpastas, também originais.
 Como essa pasta ultrapassa o limite de armazenamento permitido pelo Github, confira as imagens abaixo, para conseguir visualizar a estrutura. Novamente, essas pastas são as originais, sem nenhuma modificação.👇
-![Subpastas por ano](one.png)
-![Subpastas dentro de cada ano](two.png)
+
+![Subpastas por ano](structure_images/one.png)
+
+![Subpastas dentro de cada ano](structure_images/two.png)
 
 - **bi/**: Dashboard do Power BI e templates usados.
   - **templates/**: Contém os arquivos .svg referentes aos templates usados nas páginas do dashboard. Cada um está nomeado conforme o uso. 
