@@ -36,7 +36,7 @@ Como essa pasta ultrapassa o limite de armazenamento permitido pelo Github, conf
 
 - **bi/**: Dashboard do Power BI e templates usados.
   - **templates/**: Contém os arquivos .svg referentes aos templates usados nas páginas do dashboard. Cada um está nomeado conforme o uso. 
-  - **dashboard_images**: Contém os arquivos .png referentes a cada página do dashboard. Para ver a demonstração de uso, vá até a seção [Vídeos de Demonstração](#Vídeos de Demonstração).
+  - **dashboard_images/**: Contém os arquivos .png referentes a cada página do dashboard. Para ver a demonstração de uso, vá até a seção [Vídeos de Demonstração](#videos-de-demonstracao).
 
 - **structure_images**: Contém imagens para serem usadas no README.md, a fim de facilitar o entendimento da estrutura do projeto.
  
@@ -46,10 +46,10 @@ Como essa pasta ultrapassa o limite de armazenamento permitido pelo Github, conf
 
 ## Vídeos de Demonstração
 ### Power Query
-
+[Demonstração - Dashboard dos dados do ENEM no Power BI (Parte 1)](https://youtu.be/uxot7CZfAfI)
 
 ### Página 1 - Dados dos Inscritos
-
+[Demonstração - Dashboard dos dados do ENEM no Power BI (Parte 2)](https://youtu.be/f5fsbkmfa9o)
 
 ### Página 2 - Prova Objetiva e Redação
 
